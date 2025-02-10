@@ -27,9 +27,6 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sujal3021&layout=compact&langs_count=10)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sujal3021&layout=compact&langs_count=10)
 
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal3021&show_icons=true&locale=en" alt="sujal3021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal3021&" alt="sujal3021" /></p>
